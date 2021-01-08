@@ -1,4 +1,4 @@
-# text-classification
+# Text-classification, full implementation from scratch (no libraries): 
 Text classification using Bernoulli Naive Bayes:
 
 - Data cleaning and vectorizing
@@ -12,3 +12,14 @@ $ python3 bernoulliNB.py
 ```
 
 The output is a csv file containing the prediction for the test set.
+
+
+# Text-classification, with libraries
+Comparison of different models:
+
+```bash
+$ python3 with_libraries.py
+```
+info.csv is the output containing the accuracy score of BernoulliNB, MultinomialNB, SVM and GuassianNB models implemented for comparison. 
+
+
