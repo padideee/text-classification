@@ -1,5 +1,5 @@
 # Text-classification, full implementation from scratch (no libraries): 
-Text classification using Bernoulli Naive Bayes:
+Text classification using Bernoulli Naive Bayes from scratch:
 
 - Data cleaning and vectorizing
 - BernoullliNB implementation from scratch 
